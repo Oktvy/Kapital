@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  display: flex;
+}
+header a {
+  text-decoration: none;
+  color: black;
+}
+header a img {
+  margin-left: 190px;
+  margin-top: 50px;
+}
+header ul {
+  display: flex;
+}
+header ul li {
+  font-size: 15px;
+  position: relative;
+  right: -450px;
+  margin: 20px;
+  margin-top: 50px;
+  list-style: none;
+}
+header ul li i {
+  font-size: 12px;
+  color: red;
+}
+
+main .about {
+  position: relative;
+  top: 20px;
+}
+main .about ul {
+  display: flex;
+  list-style: none;
+  background-color: rgb(192, 211, 217);
+  height: 50px;
+}
+main .about ul li a {
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
+  margin: 10px;
+  position: relative;
+  top: 18px;
+  left: 180px;
+}
+main .about ul li button {
+  position: relative;
+  left: 300px;
+  top: 10px;
+  background-color: red;
+  color: white;
+  size: 300px;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+  border-style: none;
+}
+main .Card {
+  width: 90%;
+  justify-content: center;
+}
+main .Card h2 {
+  position: relative;
+  left: 190px;
+  top: 40px;
+  font-size: 46px;
+}
+main .Card p {
+  position: relative;
+  left: 190px;
+  top: 40px;
+  width: 770px;
+}
+main .Selection button {
+  text-decoration: none;
+  position: relative;
+  left: 175px;
+  top: 60px;
+  background-color: rgb(233, 233, 233);
+  size: 300px;
+  border-radius: 50px;
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+  border-style: none;
+  color: white;
+}
+main .Selection button a {
+  text-decoration: none;
+  color: black;
+}
+main .Selection #Installment {
+  text-decoration: none;
+  position: relative;
+  left: 175px;
+  top: 60px;
+  background-color: rgb(159, 20, 20);
+  size: 300px;
+  border-radius: 50px;
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+}
+main .Selection #Installment a {
+  color: white;
+}
+main .box {
+  position: relative;
+  top: 90px;
+  left: 175px;
+  width: 1000px;
+  height: 350px;
+  background-color: rgb(244, 244, 244);
+  border-radius: 15px;
+}
+main .box button {
+  width: 300px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: rgb(188, 24, 24);
+  color: white;
+  position: relative;
+  left: 360px;
+  bottom: 15px;
+  font-size: 20px;
+}
+main .box button a {
+  text-decoration: none;
+  color: white;
+}
+main .box p {
+  position: relative;
+  bottom: 90px;
+  left: 370px;
+  font-size: 23px;
+}
+main .box p a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  position: relative;
+  right: -300px;
+  bottom: -30px;
+}
+main .box h2 {
+  position: relative;
+  bottom: 120px;
+  left: 370px;
+  font-size: 30px;
+}
+main .box h3 {
+  position: relative;
+  bottom: 150px;
+  left: 370px;
+  font-size: 20px;
+  color: red;
+}
+main .box h3 i {
+  color: red;
+}
+main .box .image img {
+  position: relative;
+  top: 85px;
+  left: 60px;
+}/*# sourceMappingURL=kapital.css.map */
